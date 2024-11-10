@@ -1,0 +1,1 @@
+select * from orders order by customer_id limit 10 offset 10;

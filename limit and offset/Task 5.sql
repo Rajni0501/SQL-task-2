@@ -1,0 +1,1 @@
+select distinct delivery_city from orders limit 10 offset 10 ;
